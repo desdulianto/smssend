@@ -1,0 +1,6 @@
+*.pyc
+*.sw?
+venv/
+*.log*
+*.cfg
+*.ini
